@@ -25,6 +25,6 @@ indeed.dradis.controllers.CandidateDetailsController.prototype.normalizeCandidat
         candidate['status'] || candidate['currentStatus'],//6
         candidate['recommended'],//7
         candidate['starred'],//8
-        candidate['insert-master']
+        candidate['nb']
     ];
 };
