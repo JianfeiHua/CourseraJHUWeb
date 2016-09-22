@@ -26,5 +26,6 @@ indeed.dradis.controllers.CandidateDetailsController.prototype.normalizeCandidat
         candidate['recommended'],//7
         candidate['starred'],//8
         candidate['remote nb']
-    ];
+new line;   
+ ];
 };
