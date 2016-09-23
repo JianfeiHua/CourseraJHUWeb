@@ -18,6 +18,6 @@
         candidate['recommended'],//7
         candidate['starred'],//8
         candidate['insert-master']
-        mb
+        mb jr
     ];
 };
